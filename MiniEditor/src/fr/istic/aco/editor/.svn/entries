@@ -1,0 +1,59 @@
+8
+
+dir
+702
+http://subversion.istic.univ-rennes1.fr/aco20142015/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor
+http://subversion.istic.univ-rennes1.fr/aco20142015
+
+
+
+2014-12-07T22:57:14.182010Z
+669
+15011153
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a9ec5a7-d1ff-4b95-9261-8f12c2922893
+
+Command
+dir
+
+Interface
+dir
+
+Invoker
+dir
+
+Receiver
+dir
+
+Test
+dir
+
+Version2
+dir
+
+mockito-all-1.9.5.jar
+file
+556
+
+
+
+2014-12-02T13:25:20.288000Z
+50faa79d126d0213ab14ccb112a8b76d
+2014-11-30T17:29:30.654704Z
+539
+15011293
+has-props
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Command
+END
+Copy.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Command/Copy.java
+END
+Delete.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Command/Delete.java
+END
+Insertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Command/Insertion.java
+END
+Paste.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Command/Paste.java
+END
+Cut.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Command/Cut.java
+END
+MiniEditorCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Command/MiniEditorCommand.java
+END
+Selection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Command/Selection.java
+END

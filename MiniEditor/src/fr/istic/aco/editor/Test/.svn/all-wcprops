@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/aco20142015/!svn/ver/669/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test
+END
+RecorderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/RecorderTest.java
+END
+EngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/EngineTest.java
+END
+BufferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/BufferTest.java
+END
+InsertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/InsertTest.java
+END
+EditorSelectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/EditorSelectTest.java
+END
+PasteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/PasteTest.java
+END
+UndoRedoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/aco20142015/!svn/ver/669/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/UndoRedoTest.java
+END
+MiniEditorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/MiniEditorTest.java
+END
+CopyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/CopyTest.java
+END
+CutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/CutTest.java
+END
+ClipTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/aco20142015/!svn/ver/658/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Test/ClipTest.java
+END

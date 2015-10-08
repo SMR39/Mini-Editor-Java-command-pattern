@@ -1,0 +1,41 @@
+8
+
+dir
+658
+http://subversion.istic.univ-rennes1.fr/aco20142015/SAINI-RAVULA/MiniEditor/src/fr/istic/aco/editor/Invoker
+http://subversion.istic.univ-rennes1.fr/aco20142015
+
+
+
+2014-12-07T18:11:48.635279Z
+658
+15011293
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a9ec5a7-d1ff-4b95-9261-8f12c2922893
+
+MiniEditorInvoker.java
+file
+
+
+
+
+2014-12-07T18:31:27.427000Z
+c78389e34e12e937845ec01a87d222b5
+2014-12-07T18:11:48.635279Z
+658
+15011293
+has-props
+
