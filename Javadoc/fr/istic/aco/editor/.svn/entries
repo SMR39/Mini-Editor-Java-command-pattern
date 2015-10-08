@@ -1,46 +1,0 @@
-8
-
-dir
-702
-http://subversion.istic.univ-rennes1.fr/aco20142015/SAINI-RAVULA/MiniEditor/fr/istic/aco/editor
-http://subversion.istic.univ-rennes1.fr/aco20142015
-
-
-
-2014-12-07T23:12:54.874996Z
-672
-15011153
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-7a9ec5a7-d1ff-4b95-9261-8f12c2922893
-
-Command
-dir
-
-Interface
-dir
-
-Invoker
-dir
-
-Receiver
-dir
-
-Test
-dir
-
-Version2
-dir
-
